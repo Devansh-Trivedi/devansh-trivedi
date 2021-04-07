@@ -57,13 +57,13 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-## 🦸‍ Communities
+### Communities
 * Google Cloud Facilitator
 * Open Source Contributer
 <br>
 <!---<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devansh-trivedi&show_icons=true&locale=en&layout=compact" alt="devansh-trivedi" /></p>
 <br>--->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devansh-trivedi&show_icons=true&locale=en" alt="devansh-trivedi" /></p>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devansh-trivedi&show_icons=true&locale=en" alt="devansh-trivedi" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-trivedi&" alt="devansh-trivedi" /></p>
 <p align="center">
