@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **I don't fear to experiment new things**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="color: red">
 <a href="https://twitter.com/_devanshtrivedi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_devanshtrivedi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devansh-trivedi-a937851b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/devansh-trivedi-a937851b0/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/devansh.trivedi.100/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/devansh.trivedi.100/" height="30" width="40" /></a>
