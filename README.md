@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh-trivedi&label=Profile%20views&color=0e75b6&style=flat" alt="devansh-trivedi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devansh-trivedi" alt="devansh-trivedi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_devanshtrivedi" target="blank"><img src="https://img.shields.io/twitter/follow/_devanshtrivedi?logo=twitter&style=for-the-badge" alt="_devanshtrivedi" /></a> </p>
 
@@ -67,9 +66,6 @@ Here are some ideas to get you started:
 
 <!---<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devansh-trivedi&show_icons=true&locale=en&layout=compact" alt="devansh-trivedi" /></p>
 <br>--->
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devansh-trivedi&show_icons=true&locale=en" alt="devansh-trivedi" /></p>
-<br>
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-trivedi&" alt="devansh-trivedi" /></p>
-<p>
+
 <h4 align="center">Show some ❤️ by starring some of my <a href="https://github.com/Devansh-Trivedi?tab=repositories"> repositories!</a></h4>
 </p>
