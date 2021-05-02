@@ -66,6 +66,8 @@ Here are some ideas to get you started:
 
 <!---<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devansh-trivedi&show_icons=true&locale=en&layout=compact" alt="devansh-trivedi" /></p>
 <br>--->
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devansh-trivedi&show_icons=true&locale=en" alt="devansh-trivedi" /></p>
+<br>
 
 <h4 align="center">Show some ❤️ by starring some of my <a href="https://github.com/Devansh-Trivedi?tab=repositories"> repositories!</a></h4>
 </p>
