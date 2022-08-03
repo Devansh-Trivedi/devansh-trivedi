@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh-trivedi&label=Profile%20views&color=0e75b6&style=flat" alt="devansh-trivedi" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/_devanshtrivedi" target="blank"><img src="https://img.shields.io/twitter/follow/_devanshtrivedi?logo=twitter&style=for-the-badge" alt="_devanshtrivedi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/devanshtrivedii" target="blank"><img src="https://img.shields.io/twitter/follow/_devanshtrivedi?logo=twitter&style=for-the-badge" alt="_devanshtrivedi" /></a> </p>
 
 
 
